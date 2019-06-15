@@ -9,4 +9,4 @@ Python 3.6 or above
 Pygame
 
 #Screenshot
-![image](resources/sprites/shot.png)
+![image](resources/sprites/shot.PNG)
